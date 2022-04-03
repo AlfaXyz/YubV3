@@ -1,0 +1,13 @@
+{
+  "BanChats": true,
+  "AutoRead": false,
+  "AutoRecording": true,
+  "AutoReply": true,
+  "NamaSession": "sessions",
+  "NamaOwner": "Alfalfa",
+  "NamaBot": "JBOT",
+  "NomorOwner": "6283842873526",
+  "NomorOwner2": "6283829003070@s.whatsapp.net",
+  "NomorBot": "6283824037387",
+  "Limit": 25
+}
